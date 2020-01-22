@@ -1,0 +1,54 @@
+<HTML>
+
+<HEAD>
+<TITLE>Example</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="BLACK" TEXT="GREEN">
+
+<BR><H1 ALIGN="CENTER"><u>MY NAME IS SATVIK SAWHNEY.</BR><BR></BR><B>I AM FROM NEW DELHI, INDIA.<BR></BR> This is where i want to land up</H1></B></U>
+
+<H1 ALIGN="CENTER">
+<img src="YA.jpg" height=400 width=700 alt="vancouver, British Columbia">
+</H1>
+
+<P><A HREF="https://www.youtube.com/watch?v=GmqIadTlzc8"><font face="Verdana" color="green" size=5><U><H1 ALIGN="CENTER">This A LINK TO MY FAV VIDEO</U></FONT></P></A></H1>
+
+<H1 ALIGN="CENTER"><A HREF="mailto:satvik2000@live.com">mail us</A></H1>
+
+<ol>
+<li>i love gaurav 
+<li>i love yash
+</ol>
+
+<H1 ALIGN="CENTER">
+<FORM>
+First name: <INPUT TYPE="text" name="First name" value="" size=7 maxlength=20>
+<BR>
+Last name: <INPUT TYPE="text" name="last name" value="" size=7 maxlength=20>
+</BR>
+<BR></BR>
+<B>comments?</B>
+<BR>
+<TExtarea name="comments" rows=5 cols=50 wrap>
+</TExtarea>
+</BR>
+</FORM>
+</H1>
+
+<H1 ALIGN="CENTER">
+<B>who is a better friend?<B>
+<select>
+<option value="yash">yash
+<option value="Rahul Parihar">Rahul Parihar
+<option value="Gaurav">Gaurav
+<option value="Dipanshi">Dipanshi
+<option value="Anjali">Anjali
+</select>
+
+<input type="submit" value="submit"><input type="reset">
+</H1>
+
+</BODY>
+
+</HTML>
