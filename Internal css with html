@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Example</Title>
+<style type="text/css">
+p
+{
+color:blue;
+font-size:200%
+}
+h1
+{
+color:gray;
+margin-left:30px;
+background-color:lime;
+}
+
+</style>
+</Head>
+<Body>
+		<p>This is inline css</p>
+		<p>second para will also have the same</p>
+		<h1>CSS is boring</h1>
+
+</BODY>
+</Html>
