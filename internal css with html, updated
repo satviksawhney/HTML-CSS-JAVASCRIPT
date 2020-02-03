@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Example</Title>
+<style type="text/css">
+p
+{
+color:red;
+font-size:200%;
+background-image:url("satvik.jpg");
+}
+h1
+{
+color:red;
+margin-left:30px;
+background-color:red;
+background-image:url("satvik.jpg");
+background-repeat:no-repeat;
+
+}
+
+</style>
+</Head>
+<Body>
+		<p>This is inline css</p>
+		<p>second para will also have the same</p>
+		<h1>CSS is boring</h1>
+
+</BODY>
+</Html>
