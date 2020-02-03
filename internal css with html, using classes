@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>Example</Title>
+<style>
+.myclass1
+{
+color:blue;
+font-size:300%;
+}
+.myclass2
+{
+color:red;
+font-size:200%;
+}
+#myid1
+{
+color:green;
+font-size:400%;
+}
+
+</style>
+</Head>
+<Body>
+		<p class="myclass1">This is inline css</p>
+		<p class="myclass2">second para will have different style</p>
+		<p id="myid1">second para will have different style</p>
+
+</BODY>
+</Html>
