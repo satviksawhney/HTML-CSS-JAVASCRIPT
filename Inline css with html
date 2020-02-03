@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Example</Title>
+</Head>
+<Body>
+	<p style="color:blue;font-size:200%;text-align:center">This is inline css</p>
+	<h1 style="color:green;font-size:100%;margin-left:20px">CSS is boring</h1>
+
+</BODY>
+</Html>
