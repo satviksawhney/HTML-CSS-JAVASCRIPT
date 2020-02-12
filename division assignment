@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>DIVISIONS ASSIGNMENT IN HTML AND CSS</Title>
+<style>
+
+#myid1
+{
+color:green;
+background-color:lightblue;
+position:fixed;
+font-size:400%;
+}
+
+
+#myid2
+{
+color:green;
+background-color:lightblue;
+font-size:400%;
+position:fixed;
+}
+
+
+#myid3
+{
+background-color:lightblue;
+color:green;
+position:fixed;
+font-size:400%;
+}
+
+
+#myid4
+{
+background-color:lightblue;
+color:green;
+position:fixed;
+font-size:400%;
+}
+
+</style>
+</Head>
+<Body>
+		<div id="myid1">
+<p>second para will have different style</p>
+</div>
+<div id="myid2">
+<p>second para will have different style</p>
+</div>
+<div id="myid3">
+<p>second para will have different style</p>
+</div>
+<div id="myid4">
+<p>second para will have different style</p>
+</div>
+
+</BODY>
+</Html>
