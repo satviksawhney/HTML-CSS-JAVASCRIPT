@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>JAVASCRIPT</Title>
+</head>
+<BODY>
+
+<BUTTON ONCLICK="alert('Hi Rob!')">click Me!</button>
+</BODY>
+</html>
