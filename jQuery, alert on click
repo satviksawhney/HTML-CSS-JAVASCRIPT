@@ -1,0 +1,30 @@
+<html> 
+<head> 
+<title>JQuery</title>
+<script type="text/javascript" src="jq.min.js"> </script> 
+<style type="text/css">
+
+.square{
+
+width:150px;
+height:150px;
+background-color:red;
+margin:10px;
+}
+
+</style>
+</head> 
+
+<body> 
+
+
+<div class="square"></div>
+<script type="text/javascript">
+
+$(".square").click(function()
+{
+alert("a square was clicked!");
+});
+</script>
+</body> 
+</html> 
