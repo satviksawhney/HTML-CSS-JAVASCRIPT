@@ -1,0 +1,30 @@
+<html> 
+<head> 
+<title>JQuery</title>
+<script type="text/javascript" src="jq.min.js"> </script> 
+<style type="text/css">
+
+.square{
+
+width:150px;
+height:150px;
+background-color:red;
+margin:10px;
+}
+
+</style>
+</head> 
+
+<body> 
+
+
+<div class="square"></div>
+<iframe src="https://github.com/satviksawhney/HTML-CSS-JAVASCRIPT/tree/master"></iframe>
+<script type="text/javascript">
+$(".square").hover(function()
+{
+$("iframe").attr("src","https://krunker.io/?game=SIN:n4lew");
+});
+</script>
+</body> 
+</html> 
